@@ -75,7 +75,7 @@ transform: translateX(-50%); letter-spacing: 15px; transition: all 1s;}
 
 /*s1 contact*/
 .right_box .ct_box {width: 100%; height: 200px; background: #ddd; position: relative; margin-top: 3%;}
-.right_box .ct_inbox {width: calc(100% - 40px); height: calc(100% - 40px); margin: auto; border: 1px solid #f1c8c4; position: relative; top: 20px;}
+.right_box .ct_inbox {width: calc(100% - 40px); height: calc(100% - 40px); margin: auto; border: 1px solid #f1c8c4; position: relative; top: 10px;}
 .right_box .ct_inbox .ct_title {text-align: center; position: relative; top: -10px; }
 .right_box .ct_inbox .ct_title h3 {text-align: center; width: 140px; display: inline-block; background: #ddd; font-size: 20px; color: #46524a;}
 .right_box .ct_inbox .ct_txt {display: flex;}
